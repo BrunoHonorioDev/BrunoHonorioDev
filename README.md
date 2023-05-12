@@ -1,0 +1,3 @@
+- 👋 Olá, sou o Bruno! Sou novo no mundo da programação e estou em fase de transição de carreira, saindo da área farmacêutica e entrando neste universo incrível de desenvolvimento.
+- Comecei a estudar em Novembro de 2022, e estou empenhado, fazendo muitos cursos e projetos pessoais para intensificar meus conhecimentos, e minha meta é ser um Senior Full Stack.
+- Estou aberto a oportunidades de emprego, qualquer coisa estou disponível no Linkedin:https://www.linkedin.com/in/brunohonoriodev/ e no instagram:https://www.instagram.com/bruno.honoriio/
